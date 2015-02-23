@@ -1,0 +1,14 @@
+b {
+  font-family: 'Open Sans';
+  color: darkblue;
+  margin: 10px 50px;
+  background-color: ivory;
+}
+
+h1, h2 {
+  font-family: 'Oswald';
+}
+
+img{
+  float: left;
+}

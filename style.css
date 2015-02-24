@@ -12,3 +12,32 @@ h1, h2 {
 img{
   float: left;
 }
+
+#nav ul{
+  list-style: none;
+
+}
+
+#nav li{
+  display: inline;
+}
+
+#nav a{
+  padding: 40px;
+}
+
+.left{
+  float: left;
+  width: 300px;
+}
+
+.right{
+  float: right;
+  width: 300px;
+}
+
+.center{
+  margin-left: 300px;
+  margin-right: 300px;
+  width: 300px;
+}

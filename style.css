@@ -1,8 +1,8 @@
 body {
   font-family: 'Open Sans';
-  color: darkblue;
+  color: white;
   margin: 10px 50px;
-  background-color: Ivory;
+  background-color: black;
 }
 
 h1, h2 {
@@ -10,5 +10,9 @@ h1, h2 {
 }
 
 img{
+  float: left;
+}
+
+.icons{
   float: left;
 }

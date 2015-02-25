@@ -11,6 +11,7 @@ h1, h2 {
 
 img{
   float: left;
+  padding-right: 10px;
 }
 
 .icons{

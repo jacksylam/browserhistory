@@ -1,14 +1,13 @@
 body {
-  font-family: 'Open Sans';
-  color: darkblue;
-  margin: 10px 50px;
-  background-color: Ivory;
+  padding-top: 75px;  /* Move body of page below navbar. */
 }
 
-h1, h2 {
-  font-family: 'Oswald';
+.page-content {
+  padding: 10px;
+  text-align: center;
 }
 
 img{
   float: left;
 }
+
